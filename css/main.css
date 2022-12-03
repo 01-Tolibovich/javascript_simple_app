@@ -53,7 +53,7 @@ body.night {
 }
 @media screen and (max-width: 468px) {
     .section-1 > h1 {
-        font-size: 1em;
+        font-size: 1.2em;
     }
 }
 .section-1 > .number {
