@@ -51,6 +51,11 @@ body.night {
     justify-self: center;
     cursor: pointer;
 }
+@media screen and (max-width: 468px) {
+    .section-1 > h1 {
+        font-size: 1em;
+    }
+}
 .section-1 > .number {
     grid-column-start: 1;
     grid-column-end: 3;
